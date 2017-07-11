@@ -1,10 +1,11 @@
 {
     "embeddings": [
-        {
-            "tensorName": "logic-gates-model",
-            "tensorShape": [10080, 3],
-            "tensorPath": "data/logic-gates-model.ckpt-9999.data-00000-of-00001",
-            "metadataPath": "data/logic-gates-data.tsv"
-        }
+        {                                                            
+            "tensorName": "Word2Vec 10K",                              
+            "tensorShape": [10000, 200],                               
+            "tensorPath": "https://raw.githubusercontent.com/tensorflow/embedding-projector-standalone/master/oss_data/word2vec_10000_200d_tensors.bytes",
+            "metadataPath": "https://raw.githubusercontent.com/tensorflow/embedding-projector-standalone/master/oss_data/word2vec_10000_200d_labels.tsv"  
+        }                                                           
+
     ]
 }
