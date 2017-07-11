@@ -2,7 +2,7 @@
     "embeddings": [
         {
             "tensorName": "logic-gates-model",
-            "tensorShape": [10080, 5],
+            "tensorShape": [10080, 3],
             "tensorPath": "https://raw.githubusercontent.com/joboyx/ml-logic-gates-model/master/logic-gates-model.ckpt-9999.data-00000-of-00001",
             "metadataPath": "https://raw.githubusercontent.com/joboyx/ml-logic-gates-model/master/logic-gates-data.tsv"
         }
