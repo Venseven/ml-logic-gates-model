@@ -3,8 +3,8 @@
         {
             "tensorName": "logic-gates-model",
             "tensorShape": [10080, 4],
-            "tensorPath": "",
-            "metadataPath": ""
+            "tensorPath": "https://raw.githubusercontent.com/joboyx/ml-logic-gates-model/master/logic-gates-model.ckpt-9999.data-00000-of-00001",
+            "metadataPath": "https://raw.githubusercontent.com/joboyx/ml-logic-gates-model/master/logic-gates-data.tsv"
         }
     ]
 }
