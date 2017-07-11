@@ -3,6 +3,7 @@
         {                                             
             "tensorName": "Iris",                       
             "tensorShape": [150, 4],                    
+            "tensorPath": "https://raw.githubusercontent.com/tensorflow/embedding-projector-standalone/master/oss_data/iris_tensors.bytes",
             "metadataPath": "https://raw.githubusercontent.com/tensorflow/embedding-projector-standalone/master/oss_data/iris_labels.tsv"  
         }
     ]
