@@ -1,10 +1,10 @@
 {
     "embeddings": [
         {                                             
-            "tensorName": "Iris",                       
-            "tensorShape": [150, 4],                    
-            "tensorPath": "https://raw.githubusercontent.com/tensorflow/embedding-projector-standalone/master/oss_data/iris_tensors.bytes",
-            "metadataPath": "https://raw.githubusercontent.com/tensorflow/embedding-projector-standalone/master/oss_data/iris_labels.tsv"  
+            "tensorName": "logic-gates-model",                       
+            "tensorShape": [10080, 3],                    
+            "tensorPath": "https://raw.githubusercontent.com/joboyx/ml-logic-gates-model/master/data/logic-gates-model.ckpt-9999.data-00000-of-00001",
+            "metadataPath": "https://raw.githubusercontent.com/joboyx/ml-logic-gates-model/master/data/logic-gates-data.tsv"  
         }
     ]
 }
