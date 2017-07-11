@@ -1,0 +1,10 @@
+{
+    "embeddings": [
+        {
+            "tensorName": "logic-gates-model",
+            "tensorShape": [10080, 3],
+            "tensorPath": "data/logic-gates-model.ckpt-9999.data-00000-of-00001",
+            "metadataPath": "data/logic-gates-data.tsv"
+        }
+    ]
+}
