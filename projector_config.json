@@ -1,0 +1,10 @@
+{
+    "embeddings": [
+        {
+            "tensorName": "logic-gates-model",
+            "tensorShape": [10080, 4],
+            "tensorPath": "",
+            "metadataPath": ""
+        }
+    ]
+}
